@@ -23,3 +23,5 @@ A custom, feature-rich ESP32-WROOM-32 development board featuring built-in envir
 3. Connect the board to your computer via a USB-C cable.
 4. Flash your code using the Arduino IDE or your preferred development environment.
 5. Enjoy your custom DevBoard!
+
+![https://halflife.hackclub-assets.com/hackclub-half-life/covers/mj5cMWFuMGw4LFI1frfhyRVjiQ12tH3u/dc490959f06f40202db7735b7f6cfc285daa53a35c43c3d24d7770e82fd293d4.png](https://halflife.hackclub-assets.com/hackclub-half-life/covers/mj5cMWFuMGw4LFI1frfhyRVjiQ12tH3u/dc490959f06f40202db7735b7f6cfc285daa53a35c43c3d24d7770e82fd293d4.png)
